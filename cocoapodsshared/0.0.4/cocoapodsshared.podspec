@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'cocoapodsshared'
     spec.version                  = '0.0.4'
     spec.homepage                 = 'https://github.com/Kotlin/kotlin-with-cocoapods-sample'
-    spec.source                   = { :git => "https://github.com/satoshun-android-example/KMMExternalSourceCocoapods.git", :tag => "0.0.2" }
+    # spec.source                   = { :git => "https://github.com/satoshun-android-example/KMMExternalSourceCocoapods.git", :tag => "0.0.2" }
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'Kotlin sample project with CocoaPods dependencies'
